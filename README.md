@@ -1,7 +1,9 @@
 # Archive-At-Home-API
-统一归档（A@H）项目API
+[统一归档（A@H）](https://github.com/taskmgr818/archive-at-home)项目API
 
+已适配项目：
 
+[[JHenTai]](https://github.com/jiangtian616/JHenTai)
 
 # 接口规范文档
 
